@@ -23,7 +23,7 @@
   "dependencies": {},
   "targetDependencies": {
     "lpc111x": {
-      "cmsis-no-hal-lpc111x": "^0.1.0"
+      "cmsis-no-hal-lpc111x": ">=0.1.0"
     }
   }
 }
